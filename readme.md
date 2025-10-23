@@ -61,12 +61,16 @@ This table outlines the projected profitability of the unit, calculating key met
 
 An investor's primary concern is risk associated with key assumptions. This sensitivity analysis demonstrates how the Monthly Net Operating Profit (EBIT) is impacted by fluctuations in the two most critical variables: **Capacity Utilization** and **Barley Cost**.
 
-| **Capacity Utilization** | 
+    
+**Capacity Utilization**
+
+| Barley Cost | 80% (3,288 kg/mo) | 90% (3,699 kg/mo) | 100% (4,110 kg/mo) |
 | :--- | :--- | :--- | :--- |
-| **Barley Cost** | **80%** (3,288 kg/mo) | **90%** (3,699 kg/mo) | **100%** (4,110 kg/mo) |
-| **1.10 TND/kg** | 1,848 TND | 2,242 TND | **2,636 TND** |
-| **1.20 TND/kg (Base)** | 1,519 TND | 1,996 TND | **2,473 TND** |
-| **1.30 TND/kg** | 1,190 TND | 1,750 TND | **2,310 TND** |
+| 1.10 TND/kg | 1,848 TND | 2,242 TND | 2,636 TND |
+| 1.20 TND/kg (Base) | 1,519 TND | 1,996 TND | 2,473 TND |
+| 1.30 TND/kg | 1,190 TND | 1,750 TND | 2,310 TND |
+
+  
 
 **Analysis of Sensitivity:**
 *   The model demonstrates resilience, remaining profitable even with a 10 TND cent increase in barley cost and operating at only 80% capacity.
